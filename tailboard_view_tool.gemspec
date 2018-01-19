@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view for application I use}
   spec.description   = %q{Provides generated HTML data for Rails application}
-  spec.homepage      = "TailboardTech.com"
+  spec.homepage      = "https://TailboardTech.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
